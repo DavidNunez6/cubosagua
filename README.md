@@ -8,3 +8,5 @@ Entorns de Desenrotllament
 
 Programa exemple per activitat de Github amb Python
 
+#Cambios
+12/05/2023	18:58
